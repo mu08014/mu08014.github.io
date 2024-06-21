@@ -13,9 +13,9 @@ redirect_from:
 
 ## Personal Data
 -------------
-2001.10.06 대한민국 강원도 원주시 출생<br/>
-email : mu08014@khu.ac.kr<br/>
-Github : [Github](https://github.com/mu08014)
+> **2001.10.06 대한민국 강원도 원주시 출생**<br/>
+> **email : mu08014@khu.ac.kr**<br/>
+> **Github : <https://github.com/mu08014>**
 
 
 ## Education
