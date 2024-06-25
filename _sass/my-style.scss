@@ -1,4 +1,8 @@
-.dl-table {
+blockquote {
+  color: #800080; /* 글씨 색상을 변경하여 더욱 선명하게 */
+}
+
+/*.dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
       text-underline-offset: .8rem;
@@ -50,4 +54,4 @@
     display: block;
   }
 }
-
+*/

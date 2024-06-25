@@ -29,8 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  끊임없이 갈망하고<br/>
-  항상 우직하게 나아가라.
+  No pain, No gain!
 
 # A list of keywords for your blog
 keywords:              []
@@ -56,13 +55,6 @@ menu:
     url:               /archives/
   - title:             Study
     url:               /study/
-    submenu:
-      - title:         Paper
-        url:           /paper/
-      - title:         Quantum Computing
-        url:           /quantumcomputing/
-      - title:         Programming Language
-        url:           /programminglanguage/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -168,7 +160,7 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         mathjax
+  math_engine:         katex
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 

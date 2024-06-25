@@ -10,7 +10,7 @@ slug: study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  흥미에 따라 공부한 다양한 분야의 내용들에 대한 게시글들
+  흥미에 따라 공부한 다양한 분야에 대한 글들
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
