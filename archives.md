@@ -81,13 +81,17 @@ redirect_from:
         <div class="timeline">
             <div class="timeline-entry left">
                 <div class="year"><strong>2024</strong></div>
+                <div class="month">August</div>
+                <ul class="project-list">
+                    <li>한국물리학회 및 양자정보학회에서 주최한 양자정보여름학교 참여</li>
+                </ul>
                 <div class="month">June</div>
                 <ul class="project-list">
                     <li>인공지능과게임프로그래밍 조별과제에서 ImageNet을 기반으로 사람의 손그림을 AI가 맞추고, 새로운 데이터를 바탕으로 지속적으로 모델이 개선되는 웹 프로그램 <A href = "https://sketchme.xyz">Sketch Me!</A> 제작 참여</li>
                 </ul>
                 <div class="month">Aprill</div>
                 <ul class="project-list">
-                    <li><A href = "https://www.quantumworkforce.kr">고려대학교 주관 양자대학원</A>에서 학부생 인턴십 프로그램 참가 및 Quantum Algorithm을 주제로 연구활동 참여(~2024.07)</li>
+                    <li><A href = "https://www.quantumworkforce.kr">고려대학교 주관 양자대학원</A>에서 Grover's Algorithm을 주제로 학부생 인턴십 프로그램 참가(~2024.07)</li>
                 </ul>
                 <div class="month">Frebuary</div>
                 <ul class="project-list">

@@ -30,9 +30,9 @@ redirect_from:
 ## Research Interest
 -------------
 - Quantum Computing<br/>
-- Quantum Programming Language<br/>
-- Quantum Compiler<br/>
-- Classical-Quantum Hybrid System<br/>
+- Quantum Information Theory<br/>
+- Classical-Quantum Hybrid Algorithm<br/>
+- Theorical Computer Science<br/>
 
 ## Skill and Certification
 -------------
