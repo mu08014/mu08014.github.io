@@ -32,6 +32,10 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+gem 'csv'
+gem 'logger'
+gem 'base64'  
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"

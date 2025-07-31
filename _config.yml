@@ -20,16 +20,16 @@ url:                   https://mu08014.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 윤인희 블로그
+title:                 InHee Yun
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  이것저것 흥미에 따라 공부한 내용들을 정리해서 업로드 하는 블로그입니다.
+  This is a blog where I introduce myself and share summaries of academic papers I’ve studied based on my interests.
 
 # A shorter description for the sidebar.
-tagline:               >
-  No pain, No gain!
+#tagline:               >
+  
 
 # A list of keywords for your blog
 keywords:              []
@@ -80,7 +80,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 

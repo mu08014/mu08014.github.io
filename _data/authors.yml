@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    <b><span style="font-size:150%">윤인희 (YUN IN HEE)</span></b>
+    <b><span style="font-size:150%">YUN IN HEE (윤인희)</span></b>
     
-    이상과 목표를 가지고 꿈을 쫓는 연구자 지망생입니다!
+    Motivated by passion and purpose to explore the unknown!
     
 
 
@@ -57,7 +57,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        https://www.linkedin.com/in/inhee-yun-3a87b2374/
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

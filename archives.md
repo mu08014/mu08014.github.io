@@ -1,7 +1,7 @@
 ---
 layout: about
 description: >
-  지금까지 해온 일들
+  Things I've Worked on So Far
 hide_description: true
 redirect_from:
   - /download/
@@ -80,59 +80,98 @@ redirect_from:
     <main>
         <div class="timeline">
             <div class="timeline-entry left">
-                <div class="year"><strong>2024</strong></div>
+                <div class="year"><strong>2025</strong></div>
                 <div class="month">August</div>
                 <ul class="project-list">
-                    <li>한국물리학회 및 양자정보학회에서 주최한 양자정보여름학교 참여</li>
+                    <li>Participated in <a href="http://events.kias.re.kr/h/KIASQI25/">2025 KIAS Quantum Information Workshop</a></li>
                 </ul>
-                <div class="month">June</div>
+                <div class="month">July</div>
                 <ul class="project-list">
-                    <li>인공지능과게임프로그래밍 조별과제에서 ImageNet을 기반으로 사람의 손그림을 AI가 맞추고, 새로운 데이터를 바탕으로 지속적으로 모델이 개선되는 웹 프로그램 <A href = "https://sketchme.xyz">Sketch Me!</A> 제작 참여</li>
+                    <li><b>Special Award for IonQ Application, 2025 Quantum Heckaton</b></li>
+                    <li>Participated as a presenter in <a href="https://www.youtube.com/@koreaquantumclubs">the QISCA Journal Club</a>, presenting on the paper <a href="https://arxiv.org/abs/2211.00747">Quantum Pseudoentanglement</a></li>
                 </ul>
-                <div class="month">Aprill</div>
+                <div class="month">March</div>
                 <ul class="project-list">
-                    <li><A href = "https://www.quantumworkforce.kr">고려대학교 주관 양자대학원</A>에서 Grover's Algorithm을 주제로 학부생 인턴십 프로그램 참가(~2024.07)</li>
+                    <li>Joined the quantum information club <a href="https://www.linkedin.com/company/khuantum">KHUantum</a> at Kyung Hee University (~ now) and led <a href="https://www.youtube.com/watch?v=o0Y0t9Nw6hU&t=1682s">journal club</a> sessions (~ June 2025)</li>
+                    <li>Conducted a capstone design project on the topic <a href="https://github.com/mu08014/2025-1-SoftwareCapstone">Optimization of Quantum Layer Placement for Improved Image Classification in Quantum-Classical Hybrid CNNs</a> (~ June 2025)</li>
                 </ul>
-                <div class="month">Frebuary</div>
+                <div class="month">February</div>
                 <ul class="project-list">
-                    <li><A href = "https://sites.google.com/view/khuqclab">Quantum Computing Lab</A>(지도교수님 : 김정산)에서 학부생 인턴 활동(~now)</li>
+                    <li>Participated in <a href="https://www.qisk.or.kr/content/conferences/pre_greeting.php?id=40">the 2025 Annual Conference and General Meeting of the Korean Society for Quantum Information Science</a></li>
+                    <li>Joined <a href="https://www.qisca.org">the Quantum Information Science Club Association (QISCA)</a>, a quantum coalition in South Korea (~now)</li>
                 </ul>
                 <div class="month">January</div>
                 <ul class="project-list">
-                    <li><A href = "https://solved.ac/profile/mu08014">백준</A>플레티넘V 달성</li>
+                    <li>Participated in <a href="https://quantum.kaist.ac.kr/notice/view/id/162#u">the KAIST-MIT Quantum Winter Camp</a></li>
+                </ul>
+            </div>
+            <div class="timeline-entry left">
+                <div class="year"><strong>2024</strong></div>
+                <div class="month">December</div>
+                <ul class="project-list">
+                    <li>Developed a <a href="https://github.com/richardlee-kr/VRDrumSimulator">VR drum simulation</a> using Unity for the Theory and Practice of Virtual and Augmented Reality course project</li>
+                </ul>
+                <div class="month">November</div>
+                <ul class="project-list">
+                    <li><b>2024.11 3rd place, 2024 IonQ Quantum Challenge Award</b></li>
+                </ul>
+                <div class="month">September</div>
+                <ul class="project-list">
+                    <li>Led the development of an open-source <a href="https://github.com/mu08014/2024-2-gamecapstone">Unity-based system simulating and rendering fluid-hair interactions</a>, focusing on core physics engine design and project direction (~ December 2024)</li>
+                    <li>Developed a 3D open-world game using Unreal Engine 5 as a term project for the <a href="https://github.com/yoonyLim/Team11">Introduction to Game Engines</a> course (~ December 2024)</li>
+                </ul>
+                <div class="month">August</div>
+                <ul class="project-list">
+                    <li>Participated in the Quantum Information Summer School hosted by the Korean Physical Society and the Korean Society for Quantum Information Science.</li>
+                </ul>
+                <div class="month">June</div>
+                <ul class="project-list">
+                    <li>Participated in a group project for the "Artificial Intelligence and Game Programming" course, developing a web application called <a href="https://sketchme.xyz">Sketch Me!</a>, where an AI guesses hand-drawn images based on the ImageNet dataset and continuously improves its model with new user-provided data.</li>
+                </ul>
+                <div class="month">Aprill</div>
+                <ul class="project-list">
+                    <li>Participated in an undergraduate internship program at <A href = "https://www.quantumworkforce.kr">the Quantum Graduate School hosted by Korea University</A>, focusing on the topic “Principles and Applications of Grover's Algorithm” (~ July 2024)</li>
+                </ul>
+                <div class="month">Frebuary</div>
+                <ul class="project-list">
+                    <li><b>Undergraduate Research intern at a <A href = "https://sites.google.com/view/khuqclab">Quantum Computing Lab</A>(Advisor: Professor Jungsan Kim)(~now)</b></li>
+                </ul>
+                <div class="month">January</div>
+                <ul class="project-list">
+                    <li>Achieved Platinum V rank on <A href = "https://solved.ac/profile/mu08014">Baekjoon Online Judge</A></li>
                 </ul>
             </div>
             <div class="timeline-entry left">
                 <div class="year"><strong>2023</strong></div>
                 <div class="month">November</div>
                 <ul class="project-list">
-                    <li>NEW TEPS 339점 달성</li>
+                    <li>Achieved a score of 339 on the NEW TEPS (Test of English Proficiency developed by Seoul National University)</li>
                 </ul>
             </div>
             <div class="timeline-entry left">
                 <div class="year"><strong>2022</strong></div>
                 <div class="month">May</div>
                 <ul class="project-list">
-                    <li>육군 22사단 입대(~2023.11)</li>
+                    <li>Enlisted in the Republic of Korea Army 22nd Division and completed military service(~2023.11)</li>
                 </ul>
             </div>
             <div class="timeline-entry left">
                 <div class="year"><strong>2021</strong></div>
                 <div class="month">September</div>
                 <ul class="project-list">
-                    <li>게임프로그래밍입문 텀프로젝트에서 cocos2D와 Pygame을 이용한 2D 슈팅게임 <A href = "https://github.com/mu08014/Ghost_Hunter">Ghost Hunter</A> 제작</li>
+                    <li>Developed a 2D shooting game titled <A href="https://github.com/mu08014/Ghost_Hunter">Ghost Hunter</A> using cocos2D and Pygame as a term project for the “Introduction to Game Programming” course</li>
                 </ul>
                 <div class="month">August</div>
                 <ul class="project-list">
-                    <li>창업동아리 회기동막걸리에서 인터렉티브 픽션 게임 <A href = "https://github.com/SHT4196/Academia">Academia</A>개발팀 참여(~2022.05)</li>
+                    <li>Participated as a member of the development team for the interactive fiction game <A href="https://github.com/SHT4196/Academia">Academia</A> in the startup club Hoegidong Makgeolli.(~2022.05)</li>
                 </ul>
                 <div class="month">Aprill</div>
                 <ul class="project-list">
-                    <li>소프트웨어융합학과 복수전공 시작</li>
+                    <li>Started double major in Software Convergence</li>
                 </ul>
                 <div class="month">Frebuary</div>
                 <ul class="project-list">
-                    <li>컴퓨터활용능력 1급 취득</li>
+                    <li>Obtained Computer Specialist in Spreadsheet & Database Level-1</li>
                 </ul>
             </div>
         </div>
