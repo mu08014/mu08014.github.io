@@ -105,3 +105,31 @@ Example code for using Matamo as alternative analytics solution.
 </script>
 {% endif %}
 {% endcomment %}
+
+<script>
+window.MathJax = {
+  tex: {
+    macros: {
+      bra: ["\\left\\langle #1\\right|", 1],
+      ket: ["\\left| #1 \\right\\rangle", 1],
+      braket: ["\\left\\langle #1 \\middle| #2 \\right\\rangle", 2],
+      op: ["\\hat{#1}", 1],
+      comm: ["\\left[ #1 , #2 \\right]", 2]
+    }
+  }
+};
+</script>
+
+<style>
+.definition-box {
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  padding: 1em;
+  background-color: #f5f5f5;
+  margin: 1em 0;
+}
+</style>
+
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>

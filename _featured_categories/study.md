@@ -10,7 +10,9 @@ slug: study
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Articles Summarizing the Papers I’ve Studied (Korean)
+  Articles Summarizing the Papers I’ve Studied (Korean).
+  This content is for study and LaTeX practice, so it may contain errors.
+  If you find any, I would appreciate it if you could point them out via email.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
