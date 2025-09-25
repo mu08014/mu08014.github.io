@@ -81,6 +81,10 @@ redirect_from:
         <div class="timeline">
             <div class="timeline-entry left">
                 <div class="year"><strong>2025</strong></div>
+                <div class="month">October</div>
+                <ul class="project-list">
+                    <li>Participated in a paper reading group on Quantum Complexity Theory at <a href="https://harris-junseo-lee.github.io/quantum-complexity-reading-group-fall25">Qisca</a> (~December 2025)</li>
+                </ul>
                 <div class="month">August</div>
                 <ul class="project-list">
                     <li>Participated in <a href="http://events.kias.re.kr/h/KIASQI25/">2025 KIAS Quantum Information Workshop</a></li>
@@ -89,6 +93,7 @@ redirect_from:
                 <ul class="project-list">
                     <li><b>Special Award for IonQ Application, 2025 Quantum Heckaton</b></li>
                     <li>Participated as a presenter in <a href="https://www.youtube.com/@koreaquantumclubs">the QISCA Journal Club</a>, presenting on the paper <a href="https://arxiv.org/abs/2211.00747">Quantum Pseudoentanglement</a></li>
+                    <li>Participated in the Summer School on Quantum Learning and Complexity Theory hosted by <a href="https://harris-junseo-lee.github.io/qlct">Qisca</a> (~August 2025)</li>
                 </ul>
                 <div class="month">March</div>
                 <ul class="project-list">
